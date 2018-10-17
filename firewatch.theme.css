@@ -4,7 +4,7 @@
 
 /* Background */ /* Default BG: https://images8.alphacoders.com/679/thumb-1920-679478.jpg */
 .theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
-    width:100%
-    height:100%
+    width:100%;
+    height:100%;
     background:url('https://i.imgur.com/hwseeIN.jpg')center center no-repeat;  /* Change this URL to change the Wallpaper */
 }
