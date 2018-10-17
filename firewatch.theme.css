@@ -1,0 +1,8 @@
+//META{"name":"Firewatch","description":"Stable Release","author":"WillTh3Pill","version":"1.0"}*//{}
+
+@import url(https://raw.githubusercontent.com/WillTh3Pill/Firewatch-discord-theme/master/code.css);
+
+/* Background */ /* Default BG: https://images8.alphacoders.com/679/thumb-1920-679478.jpg */
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ, .appMount-3VJmYg {
+    background:url('https://i.imgur.com/hwseeIN.jpg');  /* Change this URL to change the Wallpaper */
+}
